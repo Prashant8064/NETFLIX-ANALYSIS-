@@ -1,13 +1,9 @@
-Here’s a professionally structured `README.md` for your **Netflix Analysis** repository:
 
----
 
-````markdown
 # 📺 Netflix Analysis
 
 A comprehensive data analysis project focused on the Netflix catalog. This repository explores global content trends, genre distribution, release patterns, ratings, and other insights using Python and data visualization tools.
 
----
 
 ## 📌 Project Overview
 
@@ -19,7 +15,6 @@ This project uses a publicly available Netflix dataset to:
 - Visualize trends using Matplotlib, Seaborn, and Plotly
 - Prepare data for potential machine learning models
 
----
 
 ## 🧰 Tech Stack
 
